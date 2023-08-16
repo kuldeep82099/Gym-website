@@ -70,8 +70,10 @@
 }
 
 .navbar li {
-    display: inline-block;
+  display: inline-block;
     font-size: 30px;
+    left: -71px;
+    position: relative;
 }
 
 .navbar li a {
